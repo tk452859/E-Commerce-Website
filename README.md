@@ -29,7 +29,7 @@ A **full-stack e-commerce web application** built with **Spring Boot (Java)** fo
 **Others:** Postman, Maven, Git & GitHub  
 
 ---
-![Uploading Screenshot 2025-09-21 022432.png…]()
+<img width="1866" height="906" alt="Screenshot 2025-09-21 022432" src="https://github.com/user-attachments/assets/54ea063a-3517-4f61-89ce-d25cd57ed9ad" />
 
 
 git clone https://github.com/your-username/E-Commerce-Website.git
